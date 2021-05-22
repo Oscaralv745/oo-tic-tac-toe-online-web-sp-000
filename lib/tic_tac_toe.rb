@@ -18,7 +18,7 @@ class TicTacToe
  end
 
  def input_to_index
-   
+
  end
 
  def move
@@ -55,5 +55,5 @@ class TicTacToe
 
  def play
  end
- 
+
 end
