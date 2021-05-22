@@ -15,6 +15,42 @@ class TicTacToe
     puts " #{@board[3]} | #{@board[4]} | #{@board[5]} "
     puts "-----------"
     puts " #{@board[6]} | #{@board[7]} | #{@board[8]} "
-
  end
+
+ def input_to_index
+ end 
+
+ def move 
+ end 
+
+ def position_taken?
+ end 
+
+ def valid_move?
+ end 
+
+ def turn_count
+ end 
+
+ def current_player
+ end 
+
+ def turn
+ end 
+
+ def won?
+ end 
+
+ def draw? 
+ end 
+
+ def over?
+ end 
+
+ def winner 
+ end 
+
+ def play
+ end 
+ 
 end
