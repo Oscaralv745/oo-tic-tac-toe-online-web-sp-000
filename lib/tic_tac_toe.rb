@@ -63,7 +63,7 @@ class TicTacToe
       end
  end
 
- def full? 
+ def full?
    @board.all?{|square| square != " "}
  end
 
@@ -76,9 +76,9 @@ class TicTacToe
  end
 
  def winner
-   if combo = won? 
+   if combo = won?
      @board[combo[0]]
-   end 
+   end
  end
 
  def play
