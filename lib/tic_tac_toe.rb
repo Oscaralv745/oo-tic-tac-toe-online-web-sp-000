@@ -18,39 +18,39 @@ class TicTacToe
  end
 
  def input_to_index
- end 
+ end
 
- def move 
- end 
+ def move
+ end
 
  def position_taken?
- end 
+ end
 
  def valid_move?
- end 
+ end
 
  def turn_count
- end 
+ end
 
  def current_player
- end 
+ end
 
  def turn
- end 
+ end
 
  def won?
- end 
+ end
 
- def draw? 
- end 
+ def draw?
+ end
 
  def over?
- end 
+ end
 
- def winner 
- end 
+ def winner
+ end
 
  def play
- end 
+ end
  
 end
