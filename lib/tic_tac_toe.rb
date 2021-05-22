@@ -1,4 +1,5 @@
 class TicTacToe
+  
   def initialize(board = nil)
     @board = board || Array.new(9, " ")
   end
@@ -22,12 +23,15 @@ class TicTacToe
  end
 
  def move
+
  end
 
  def position_taken?
+
  end
 
  def valid_move?
+
  end
 
  def turn_count
@@ -39,21 +43,27 @@ class TicTacToe
  end
 
  def turn
+
  end
 
  def won?
+
  end
 
  def draw?
+
  end
 
  def over?
+
  end
 
  def winner
+
  end
 
  def play
+
  end
 
 end
