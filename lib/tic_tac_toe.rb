@@ -1,2 +1,2 @@
-class Tictactoe
+class TicTacToe
 end 
